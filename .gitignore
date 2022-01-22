@@ -6,3 +6,5 @@ raw_data/
 **/__pycache__/
 .env
 cali_merl_project/data
+cali_merl_project/For_Testing
+cali_merl_project/models
